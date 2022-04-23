@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahanubhavudu" alt="mahanubhavudu" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@mahanubhavudu21" target="blank"><img src="https://img.shields.io/twitter/follow/@mahanubhavudu21?logo=twitter&style=for-the-badge" alt="@mahanubhavudu21" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mahanubhavudu21" target="blank"><img src="https://img.shields.io/twitter/follow/mahanubhavudu21?logo=twitter&style=for-the-badge" alt="mahanubhavudu21" /></a> </p>
 
 - 🌱 I’m currently learning **Linux, Networking, and Scripting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mahanubhavudu21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahanubhavudu21" height="30" width="40" /></a>
+<a href="https://twitter.com/mahanubhavudu21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahanubhavudu21" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmahanubhavudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmahanubhavudu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mahanubhavudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mahanubhavudu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc0wm3kkzqpxgd9ddiyj5_xw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc0wm3kkzqpxgd9ddiyj5_xw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
