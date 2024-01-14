@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **A Big Data Solution for Efficient Document Retrieval and Analysis**
 
-- 🌱 I’m currently learning **Design, Analysis and Algorithms, Mobile Computing and Cloud Computing.**
+- 🌱 I’m currently learning **Design Analysis and Algorithms, Mobile Computing and Cloud Computing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
